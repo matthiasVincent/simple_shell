@@ -1,0 +1,1 @@
+This is a simple shell group project from ALX Software Engineering School. The project is to implement the functionality of shell, terminal or command prompt in Windows putting together what we have learned so far
